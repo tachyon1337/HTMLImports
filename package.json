@@ -2,7 +2,9 @@
   "name": "HTMLImports",
   "description": "Polyfill for W3C HTMLImports Specification",
   "version": "0.3.5",
-   "repository": {
+  "author": "Polymer Authors",
+  "license": "BSD",
+  "repository": {
         "type": "git",
         "url": "https://github.com/tachyon1337/HTMLImports.git"
    },
