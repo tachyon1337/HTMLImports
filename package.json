@@ -1,5 +1,6 @@
 {
-  "name": "HTMLImports",
+  "name": "Polymer-HTMLImports",
+  "title": "HTMLImports",
   "description": "Polyfill for W3C HTMLImports Specification",
   "version": "0.3.5",
   "author": "Polymer Authors",
